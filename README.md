@@ -36,5 +36,3 @@ My goal is to become a **high-level Ethical Hacker** and specialize in **offensi
 - ⚡ Exploitation practice labs
 - 🔐 Web-security mini-projects
 
-### 📬 Contact
-- Email: rustem200720072007@gmail.com
