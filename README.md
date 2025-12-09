@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Rustem!
 
-<!--
-**rustemist/rustemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Cybersecurity Enthusiast | Red Team Student | Pentester Intern
 
-Here are some ideas to get you started:
+I am currently studying **Network Fundamentals, Linux, Windows, Python, and Pentesting** at a professional Red Team course in Baku.  
+My goal is to become a **high-level Ethical Hacker** and specialize in **offensive security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 What I’m learning right now
+- Network Fundamentals (CCNA level)
+- Linux exploitation basics
+- Windows privilege escalation
+- Python for cybersecurity
+- OWASP top 10 basics
+- Pentesting methodologies
+- Tools: BurpSuite, Nmap, Metasploit, Wireshark
+
+### 🛠️ Tools & Technologies
+- **Linux (Kali, Parrot)**
+- **Wireshark**
+- **Nmap**
+- **BurpSuite**
+- **Metasploit**
+- **Python**
+- **Windows Server**
+- **VirtualBox / VMware**
+
+### 🎯 My Goals
+- Get a cybersecurity internship
+- Build real-world pentest projects
+- Create automation tools using Python
+- Deploy a home lab for practicing attacks
+
+### 📂 Projects Coming Soon
+- 🔍 Recon automation tool (Python)
+- 🧪 Vulnerability scanning scripts
+- ⚡ Exploitation practice labs
+- 🔐 Web-security mini-projects
+
+### 📬 Contact
+- Email: rustem200720072007@gmail.com
